@@ -6,7 +6,7 @@
 
 # Welcome, here is what I'm currently upto ...
 
-- 🔭 I’m currently working on ...Larave/Vue App
+- 🔭 I’m currently working on ...Laravel/Vue App
 - 🌱 I’m currently learning ...VueJS
 - 👯 I’m looking to collaborate on ...anyone
 - 🤔 I’m looking for help with ...nuthing
