@@ -20,7 +20,7 @@
 
 - 💬  &nbsp;&nbsp;Talk to me in **TypeScript, React, NextJs, GraphQL**
 
-- 📫  &nbsp;&nbsp;How to reach me - You can email me at **maratib@gmail.com** 
+- 📫  &nbsp;&nbsp;You can reach me at : **maratib@gmail.com** 
 
 ### Recent Blogs posts
 <!-- BLOG-POST-LIST:START -->
