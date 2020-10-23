@@ -14,7 +14,7 @@
 
 - 🔭 &nbsp;&nbsp;I’m currently working on [softsons](https://softsons.com)
 
-- 👨‍💻  &nbsp;&nbsp;All of my projects are available at [maratib.github.is](https://maratib.github.io/)
+- 👨‍💻  &nbsp;&nbsp;All of my projects are available at [maratib.github.io](https://maratib.github.io/)
 
 - 📝  &nbsp;&nbsp;I regularly write articles on [maratib.github.io](https://maratib.github.io/)
 
