@@ -12,15 +12,15 @@
   </a>
 </p>
 
-- 🔭 I’m currently working on [softsons](https://softsons.com)
+- 🔭  I’m currently working on [softsons](https://softsons.com)
 
-- 👨‍💻 All of my projects are available at [maratib.github.is](https://maratib.github.io/)
+- 👨‍💻  All of my projects are available at [maratib.github.is](https://maratib.github.io/)
 
-- 📝 I regulary write articles on [https://blog.bhanuteja.dev/](https://blog.bhanuteja.dev/)
+- 📝  I regulary write articles on [maratib.github.io/](https://maratib.github.io/)
 
-- 💬 Talk to me in **TypeScript, React, NextJs, GraphQL**
+- 💬  Talk to me in **TypeScript, React, NextJs, GraphQL**
 
-- 📫 How to reach me - You can email me at **maratib@gmail.com** 
+- 📫  How to reach me - You can email me at **maratib@gmail.com** 
 
 ### Recent Blogs posts
 <!-- BLOG-POST-LIST:START -->
