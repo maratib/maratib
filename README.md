@@ -16,7 +16,7 @@
 
 - 👨‍💻  All of my projects are available at [maratib.github.is](https://maratib.github.io/)
 
-- 📝  I regulary write articles on [maratib.github.io/](https://maratib.github.io/)
+- 📝  I regulary write articles on [maratib.github.io](https://maratib.github.io/)
 
 - 💬  Talk to me in **TypeScript, React, NextJs, GraphQL**
 
