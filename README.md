@@ -18,7 +18,7 @@
 
 - 📝  &nbsp;&nbsp;I regularly write articles on [maratib.github.io](https://maratib.github.io/)
 
-- 💬  &nbsp;&nbsp;Talk to me in **TypeScript, React, NextJs, Angular, GraphQL**
+- 💬  &nbsp;&nbsp;Talk to me in **TypeScript, React, NextJs, Angular, GraphQL, Prisma**
 
 - 📫  &nbsp;&nbsp;You can reach me at : **maratib@gmail.com** 
 
