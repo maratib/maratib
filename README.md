@@ -18,7 +18,7 @@
 
 - 📝  &nbsp;&nbsp;I regularly write articles on [maratib.github.io](https://maratib.github.io/)
 
-- 💬  &nbsp;&nbsp;Talk to me in **Java, Spring, Spring Boot, Hibgernate, TypeScript, React, NextJs, Angular, D3.js, Canvas, SVG, GraphQL, Prisma**
+- 💬  &nbsp;&nbsp;Talk to me in **Java, Spring, Spring Boot, Maven, Hibernate, Tomcat, TypeScript, React, NextJs, Angular, D3.js, Canvas, SVG, GraphQL, Prisma**
 
 - 📫  &nbsp;&nbsp;You can reach me at : **maratib@gmail.com** 
 
