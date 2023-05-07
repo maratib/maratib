@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Maratib Ali Khan</h1>
-<h3 align="center">A Full-Stack Developer, an Entrepreneur and a Blogger</h3>
+<h3 align="center">A Full-Stack Developer/h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=maratib" alt="maratib" /> </p>
 
@@ -12,13 +12,13 @@
   </a>
 </p>
 
-- 🔭 &nbsp;&nbsp;I’m currently working on [softsons](https://softsons.com)
+- 🔭 &nbsp;&nbsp;I’m currently working at [softsons](https://softsons.com)
 
 - 👨‍💻  &nbsp;&nbsp;All of my projects are available at [maratib.github.io](https://maratib.github.io/)
 
 - 📝  &nbsp;&nbsp;I regularly write articles on [maratib.github.io](https://maratib.github.io/)
 
-- 💬  &nbsp;&nbsp;Talk to me in **Java, Spring, Spring Boot, Maven, Hibernate, Tomcat, TypeScript, React, NextJs, Vue, Nuxt, Angular, D3.js, Canvas, SVG, GraphQL, Prisma**
+- 💬  &nbsp;&nbsp;Talk to me in **Java, Spring, Spring Boot, Maven, Hibernate, TypeScript, Nest.Js, React, NextJs, Angular, GraphQL, Prisma**
 
 - 📫  &nbsp;&nbsp;You can reach me at : **maratib@gmail.com** 
 
