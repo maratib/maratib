@@ -18,7 +18,7 @@
 
 - 📝  &nbsp;&nbsp;I regularly write articles on [maratib.github.io](https://maratib.github.io/)
 
-- 💬  &nbsp;&nbsp;Talk to me in **Java, Spring Boot, TypeScript, Nest.Js, Vue3, Nuxt3, React, NextJs, Angular, GraphQL, Prisma**
+- 💬  &nbsp;&nbsp;**Java, Spring Boot, TypeScript, Nest.Js, Vue3, Nuxt3, React, NextJs, Angular, GraphQL, Prisma**
 
 - 📫  &nbsp;&nbsp;You can reach me at : **maratib@gmail.com** 
 
