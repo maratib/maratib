@@ -12,12 +12,6 @@
   </a>
 </p>
 
-- 🔭 &nbsp;&nbsp;I’m currently working at [softsons](https://softsons.com)
-
-- 👨‍💻  &nbsp;&nbsp;All of my projects are available at [maratib.github.io](https://maratib.github.io/)
-
-- 📝  &nbsp;&nbsp;I regularly write articles on [maratib.github.io](https://maratib.github.io/)
-
 - 💬  &nbsp;&nbsp;**Java, Spring Boot, TypeScript, Nest.Js, Vue3, Nuxt3, React, NextJs, Angular, GraphQL, Prisma**
 
 - 📫  &nbsp;&nbsp;You can reach me at : **maratib@gmail.com** 
