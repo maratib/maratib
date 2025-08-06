@@ -7,16 +7,18 @@
   <a href="https://github.com/maratib?tab=followers">
     <img src="https://img.shields.io/github/followers/maratib?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
   </a>
-  <a href="http://twitter.com/maratib">
+  <a href="http://x.com/maratib1">
     <img src="https://img.shields.io/twitter/follow/maratib?label=Twitter&logo=twitter&style=for-the-badge" />
+  </a>
+  <a href="https://www.linkedin.com/in/maratibali" target="_blank">
+    <img src="https://img.shields.io/linkedin/follow/maratib?label=Twitter&logo=twitter&style=for-the-badge" />
   </a>
 </p>
 
-- 💬  &nbsp;&nbsp;**Java, Spring Boot, TypeScript, Nest.Js, Vue3, Nuxt3, React, NextJs, Angular, GraphQL, Prisma**
 
-- 📫  &nbsp;&nbsp;You can reach me at : **maratib@gmail.com** 
 
 ### Recent Blogs posts
+[maratib.github.io](https://maratib.github.io)
 <!-- BLOG-POST-LIST:START -->
 <!-- - [React Fundamentals: Styling And Handling Forms](https://blog.bhanuteja.dev/react-fundamentals-styling-and-handling-forms)
 - [React Fundamentals: Creating Custom Components](https://blog.bhanuteja.dev/react-fundamentals-creating-custom-components)
