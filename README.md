@@ -11,7 +11,7 @@
   <img src="https://komarev.com/ghpvc/?username=maratib" alt="maratib" height="100" />
   <br>
   <a href="https://www.linkedin.com/in/maratibali" rel="nofollow noreferrer">
-    <img src="https://i.sstatic.net/gVE0j.png" alt="linkedin"> LinkedIn
+    <img src="https://i.sstatic.net/gVE0j.png" alt="linkedin">
   </a>
 
 </p>
