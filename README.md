@@ -4,11 +4,11 @@
 
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=maratib" alt="maratib" />
-  <br>
   <a href="https://github.com/maratib?tab=followers">
     <img src="https://img.shields.io/github/followers/maratib?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
   </a>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://komarev.com/ghpvc/?username=maratib" alt="maratib" />
   <br>
   <a href="https://www.linkedin.com/in/maratibali" rel="nofollow noreferrer">
     <img src="https://i.sstatic.net/gVE0j.png" alt="linkedin"> LinkedIn
