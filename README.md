@@ -7,14 +7,15 @@
   <a href="https://github.com/maratib?tab=followers">
     <img src="https://img.shields.io/github/followers/maratib?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
   </a>
-   <a href="https://www.linkedin.com/in/maratibali" rel="nofollow noreferrer">
-    <img src="https://i.sstatic.net/gVE0j.png" alt="linkedin"> LinkedIn
-  </a>
 </p>
 
 
 
 ### Recent Blogs posts
+<a href="https://www.linkedin.com/in/maratibali" rel="nofollow noreferrer">
+    <img src="https://i.sstatic.net/gVE0j.png" alt="linkedin"> LinkedIn
+  </a>
+  
 [maratib.github.io](https://maratib.github.io)
 <!-- BLOG-POST-LIST:START -->
 <!-- - [React Fundamentals: Styling And Handling Forms](https://blog.bhanuteja.dev/react-fundamentals-styling-and-handling-forms)
