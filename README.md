@@ -4,24 +4,28 @@
 
 
 <p align="center">
-  <p align="center"> <img src="https://komarev.com/ghpvc/?username=maratib" alt="maratib" /> </p>
+  <img src="https://komarev.com/ghpvc/?username=maratib" alt="maratib" />
+  <br>
   <a href="https://github.com/maratib?tab=followers">
     <img src="https://img.shields.io/github/followers/maratib?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
   </a>
+  <br>
+  <a href="https://www.linkedin.com/in/maratibali" rel="nofollow noreferrer">
+    <img src="https://i.sstatic.net/gVE0j.png" alt="linkedin"> LinkedIn
+  </a>
+
 </p>
 
 
 
-### Recent Blogs posts
-<a href="https://www.linkedin.com/in/maratibali" rel="nofollow noreferrer">
-    <img src="https://i.sstatic.net/gVE0j.png" alt="linkedin"> LinkedIn
-  </a>
+
+## Recent Blogs posts
   
 [maratib.github.io](https://maratib.github.io)
 
-### Technologies
+## Technologies
 
-### Github Stats
+## Github Stats
 
 <p>
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maratib&layout=compact&hide=html" alt="maratib" />
