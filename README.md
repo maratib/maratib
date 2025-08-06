@@ -7,7 +7,7 @@
   <a href="https://github.com/maratib?tab=followers">
     <img src="https://img.shields.io/github/followers/maratib?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
   </a>
-  &nbsp;&nbsp;&nbsp;
+  <br>
   <img src="https://komarev.com/ghpvc/?username=maratib" alt="maratib" height="100" />
   <br>
   <a href="https://www.linkedin.com/in/maratibali" rel="nofollow noreferrer">
