@@ -7,11 +7,8 @@
   <a href="https://github.com/maratib?tab=followers">
     <img src="https://img.shields.io/github/followers/maratib?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
   </a>
-  <a href="http://x.com/maratib1">
-    <img src="https://img.shields.io/twitter/follow/maratib?label=Twitter&logo=twitter&style=for-the-badge" />
-  </a>
-  <a href="https://www.linkedin.com/in/maratibali" target="_blank">
-    <img src="https://img.shields.io/linkedin/follow/maratib?label=Twitter&logo=twitter&style=for-the-badge" />
+   <a href="https://www.linkedin.com/in/maratibali" rel="nofollow noreferrer">
+    <img src="https://i.sstatic.net/gVE0j.png" alt="linkedin"> LinkedIn
   </a>
 </p>
 
