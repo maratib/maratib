@@ -22,7 +22,7 @@
 
 <table width="100%">
 <tr><th>Java</th><th>Flutter</th><th>React</th><th>NodeJS</th><th>Python</th><th>Others</th></tr>
-<tr><td><br>
+<tr><td valign="top"><br>
 
 - [Java](https://github.com/maratib?tab=repositories&q=java)
 
@@ -30,13 +30,61 @@
 
 - [Spring Boot](https://github.com/maratib?tab=repositories&q=spring-boot)
 
-</td><td>-</td><td><br>
+</td><td valign="top"><br>
+
+- [Flutter](https://github.com/maratib?tab=repositories&q=flutter)
+
+- [Dart](https://github.com/maratib?tab=repositories&q=dart)
+
+- [Firebase](https://github.com/maratib?tab=repositories&q=firebase)
+
+- [FlutterFire](https://github.com/maratib?tab=repositories&q=flutterfire)
+
+- [Supabase](https://github.com/maratib?tab=repositories&q=supabase)
+
+> </td><td valign="top"><br>
 
 - [React](https://github.com/maratib?tab=repositories&q=react)
 
 - [React-Native](https://github.com/maratib?tab=repositories&q=react-native)
 
-</td><td>NodeJS</td><td>Python</td><td>Others</td></tr>
+- [Next.js](https://github.com/maratib?tab=repositories&q=nextjs)
+
+- [TailwindCSS](https://github.com/maratib?tab=repositories&q=tailwindcss)
+
+</td><td valign="top"><br>
+
+- [NodeJS](https://github.com/maratib?tab=repositories&q=nodejs)
+
+- [Nest.js](https://github.com/maratib?tab=repositories&q=nestjs)
+
+- [Express](https://github.com/maratib?tab=repositories&q=express)
+
+</td><td valign="top"><br>
+
+- [Python](https://github.com/maratib?tab=repositories&q=python)
+
+- [Django](https://github.com/maratib?tab=repositories&q=django)
+
+- [Fast API](https://github.com/maratib?tab=repositories&q=fast-api)
+
+</td><td valign="top"><br>
+
+- [Git](https://github.com/maratib?tab=repositories&q=git)
+
+- [AWS](https://github.com/maratib?tab=repositories&q=aws)
+
+- [Docker](https://github.com/maratib?tab=repositories&q=docker)
+
+- [Kubernetes](https://github.com/maratib?tab=repositories&q=kubernetes)
+
+- [MongoDB](https://github.com/maratib?tab=repositories&q=mongodb)
+
+- [MySQL](https://github.com/maratib?tab=repositories&q=mysql)
+
+- [PostgreSQL](https://github.com/maratib?tab=repositories&q=postgresql)
+
+</td></tr>
 
 </table>
 
