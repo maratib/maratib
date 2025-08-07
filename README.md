@@ -1,18 +1,40 @@
-<h1 align="center">Hi 👋, I'm Maratib Ali Khan</h1>
-<h3 align="center">A Full-Stack Software Engineer</h3>
-
-<p align="center">
-  <a href="https://github.com/maratib?tab=followers">
+<h1 align="center">
+Hi 👋, I'm Maratib Ali Khan
+<a href="https://www.linkedin.com/in/maratibali" rel="nofollow noreferrer">
+    <img src="https://i.sstatic.net/gVE0j.png" alt="linkedin" width="25">
+  </a>
+<a href="https://github.com/maratib?tab=followers">
     <img src="https://img.shields.io/github/followers/maratib?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
   </a>
+  
+</h1>
+<p>
+<h3 align="center">A Full-Stack Software Engineer</h3>
+<img src="https://komarev.com/ghpvc/?username=maratib" alt="maratib" height="200" style="float: right"/>
+</p>
+
+<p align="center">
+  
+  
   <br>
-  <img src="https://komarev.com/ghpvc/?username=maratib" alt="maratib" height="100" />
+  
   <br>
-  <a href="https://www.linkedin.com/in/maratibali" rel="nofollow noreferrer">
-    <img src="https://i.sstatic.net/gVE0j.png" alt="linkedin">
-  </a>
 
 </p>
+
+**🚀 Passionate Developer & Open-Source Enthusiast**
+
+I am a **dedicated** and **innovative** developer with a deep passion for crafting **efficient**, **scalable**, and **user-centric** software solutions. My **GitHub** showcases a diverse range of projects—from **web apps** to **automation tools**—highlighting my expertise in multiple **programming languages** and **frameworks**. Every line of code I write reflects my commitment to **clean architecture**, **performance optimization**, and **continuous learning**.
+
+**🌍 Collaborative & Impact-Driven**
+
+Beyond coding, I thrive in **collaborative environments**, contributing to **open-source** projects and sharing knowledge through **well-documented repositories**. I believe in **transparency**, **community-driven development**, and building tools that **solve real-world problems**. Whether refining legacy systems or experimenting with **cutting-edge tech**, I approach challenges with **creativity** and **persistence**.
+
+**✨ Let’s Build the Future Together**
+
+My work is more than just repositories—it’s a testament to my **growth mindset**, **technical depth**, and **passion for innovation**. I’m always eager to **connect**, **collaborate**, and **turn ideas into reality**. If you’re looking for a developer who blends **analytical thinking** with **practical execution**, let’s create something **impactful**!
+
+_(Note: For actual icons, you'd need to use a platform that supports rich text, like LinkedIn or a personal website. GitHub READMEs support basic emoji.)_
 
 ## Recent Blogs posts
 
@@ -109,15 +131,3 @@
 <p>&nbsp;
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=maratib&show_icons=true" alt="maratib" />
 </p>
-
-<!-- <p align="center">
-    <a href="https://bhanuteja.dev" target="blank"><img align="center" src="https://github.com/pbteja1998/pbteja1998/blob/master/images/logo.png" alt="Bhanu Teja's Portfolio" height="30" width="30" /></a>
-    <a href="https://blog.bhanuteja.dev" target="blank"><img align="center" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1592752137870/scHk9tTaA.png" alt="Bhanu Teja's Blog" height="30" width="30" /></a>
-    <a href="https://linkedin.com/in/pbteja1998" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="pbteja1998" height="30" width="30" /></a>
-    <a href="https://twitter.com/pbteja1998" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="pbteja1998" height="30" width="30" /></a>
-    <a href="https://hashnode.com/@pbteja1998" target="blank"><img align="center" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1592752137870/scHk9tTaA.png" alt="@pbteja1998" height="30" width="30" /></a>
-    <a href="https://dev.to/pbteja1998" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="pbteja1998" height="30" width="30" /></a>
-    <a href="https://medium.com/@pbteja1998" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@pbteja1998" height="30" width="30" /></a>
-    <a href="https://codepen.io/pbteja1998" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="pbteja1998" height="30" width="30" /></a>
-    <a href="https://codesandbox.com/pbteja1998" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="pbteja1998" height="30" width="30" /></a>
-</p> -->
