@@ -1,42 +1,40 @@
 <h1 align="center">
 Hi 👋, I'm Maratib Ali Khan
-<a href="https://www.linkedin.com/in/maratibali" rel="nofollow noreferrer">
-    <img src="https://i.sstatic.net/gVE0j.png" alt="linkedin" width="25">
+</h1>
+
+<p>
+<h3 style="margin: 0; display: inline-block">A Full-Stack Software Engineer</h3>
+
+<div style="display: inline-block; float: right">
+
+<img src="https://komarev.com/ghpvc/?username=maratib" alt="maratib" height="20" style="display: inline-block"/>
+<a href="https://www.linkedin.com/in/maratibali" rel="nofollow noreferrer" style="display: inline-block">
+    <img src="https://i.sstatic.net/gVE0j.png" alt="linkedin" width="20">
   </a>
-<a href="https://github.com/maratib?tab=followers">
+
+<a href="https://github.com/maratib?tab=followers"  style="float: right; display: inline-block">
     <img src="https://img.shields.io/github/followers/maratib?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
   </a>
-  
-</h1>
-<p>
-<h3 align="center">A Full-Stack Software Engineer</h3>
-<img src="https://komarev.com/ghpvc/?username=maratib" alt="maratib" height="200" style="float: right"/>
+</div>
 </p>
+<br>
+<br>
 
-<p align="center">
-  
-  
-  <br>
-  
-  <br>
-
-</p>
-
-**🚀 Passionate Developer & Open-Source Enthusiast**
+## 🚀 Passionate Developer & Open-Source Enthusiast
 
 I am a **dedicated** and **innovative** developer with a deep passion for crafting **efficient**, **scalable**, and **user-centric** software solutions. My **GitHub** showcases a diverse range of projects—from **web apps** to **automation tools**—highlighting my expertise in multiple **programming languages** and **frameworks**. Every line of code I write reflects my commitment to **clean architecture**, **performance optimization**, and **continuous learning**.
 
-**🌍 Collaborative & Impact-Driven**
+## 🌍 Collaborative & Impact-Driven
 
 Beyond coding, I thrive in **collaborative environments**, contributing to **open-source** projects and sharing knowledge through **well-documented repositories**. I believe in **transparency**, **community-driven development**, and building tools that **solve real-world problems**. Whether refining legacy systems or experimenting with **cutting-edge tech**, I approach challenges with **creativity** and **persistence**.
 
-**✨ Let’s Build the Future Together**
+## ✨ Let’s Build the Future Together
 
 My work is more than just repositories—it’s a testament to my **growth mindset**, **technical depth**, and **passion for innovation**. I’m always eager to **connect**, **collaborate**, and **turn ideas into reality**. If you’re looking for a developer who blends **analytical thinking** with **practical execution**, let’s create something **impactful**!
 
 _(Note: For actual icons, you'd need to use a platform that supports rich text, like LinkedIn or a personal website. GitHub READMEs support basic emoji.)_
 
-## Recent Blogs posts
+## Recent Blog posts
 
 [maratib.github.io](https://maratib.github.io)
 
