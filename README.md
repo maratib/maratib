@@ -22,7 +22,7 @@
 
 <table width="100%">
 <tr><th align="center">Java</th><th align="center">Flutter</th><th align="center">React</th><th align="center">NodeJS</th><th align="center">Python</th><th align="center">Others</th></tr>
-<tr><td valign="top" align="center" style="line-height: 2.0">
+<tr><td valign="top" style="line-height: 2.0; text-align: center;">
 
 [Java](https://github.com/maratib?tab=repositories&q=java)
 
@@ -30,59 +30,71 @@
 
 [Spring Boot](https://github.com/maratib?tab=repositories&q=spring-boot)
 
-</td><td valign="top">
+</td><td valign="top" style="line-height: 2.0; text-align: center;">
 
-- [Flutter](https://github.com/maratib?tab=repositories&q=flutter)
+[Flutter](https://github.com/maratib?tab=repositories&q=flutter)
 
-- [Dart](https://github.com/maratib?tab=repositories&q=dart)
+[Dart](https://github.com/maratib?tab=repositories&q=dart)
 
-- [Firebase](https://github.com/maratib?tab=repositories&q=firebase)
+[Firebase](https://github.com/maratib?tab=repositories&q=firebase)
 
-- [FlutterFire](https://github.com/maratib?tab=repositories&q=flutterfire)
+[FlutterFire](https://github.com/maratib?tab=repositories&q=flutterfire)
 
-- [Supabase](https://github.com/maratib?tab=repositories&q=supabase)
+[Supabase](https://github.com/maratib?tab=repositories&q=supabase)
 
-> </td><td valign="top">
+</td><td valign="top" style="line-height: 2.0; text-align: center;">
 
-- [React](https://github.com/maratib?tab=repositories&q=react)
+[React](https://github.com/maratib?tab=repositories&q=react)
 
-- [React-Native](https://github.com/maratib?tab=repositories&q=react-native)
+[React-Native](https://github.com/maratib?tab=repositories&q=react-native)
 
-- [Next.js](https://github.com/maratib?tab=repositories&q=nextjs)
+[Next.js](https://github.com/maratib?tab=repositories&q=nextjs)
 
-- [TailwindCSS](https://github.com/maratib?tab=repositories&q=tailwindcss)
+[TailwindCSS](https://github.com/maratib?tab=repositories&q=tailwindcss)
 
-</td><td valign="top">
+</td><td valign="top" style="line-height: 2.0; text-align: center;">
 
-- [NodeJS](https://github.com/maratib?tab=repositories&q=nodejs)
+[NodeJS](https://github.com/maratib?tab=repositories&q=nodejs)
 
-- [Nest.js](https://github.com/maratib?tab=repositories&q=nestjs)
+[Nest.js](https://github.com/maratib?tab=repositories&q=nestjs)
 
-- [Express](https://github.com/maratib?tab=repositories&q=express)
+[Express](https://github.com/maratib?tab=repositories&q=express)
 
-</td><td valign="top">
+[Fastify](https://github.com/maratib?tab=repositories&q=fastify)
 
-- [Python](https://github.com/maratib?tab=repositories&q=python)
+[GraphQL](https://github.com/maratib?tab=repositories&q=graphql)
 
-- [Django](https://github.com/maratib?tab=repositories&q=django)
+[Apollo](https://github.com/maratib?tab=repositories&q=apollo)
 
-- [Fast API](https://github.com/maratib?tab=repositories&q=fast-api)
+[socket.io](https://github.com/maratib?tab=repositories&q=socket.io)
 
-</td><td valign="top">
+</td><td valign="top" style="line-height: 2.0; text-align: center;">
 
-- [Git](https://github.com/maratib?tab=repositories&q=git)
+[Python](https://github.com/maratib?tab=repositories&q=python)
 
-- [AWS](https://github.com/maratib?tab=repositories&q=aws)
+[Django](https://github.com/maratib?tab=repositories&q=django)
 
-- [Docker](https://github.com/maratib?tab=repositories&q=docker)
+[Fast API](https://github.com/maratib?tab=repositories&q=fast-api)
 
-- [Kubernetes](https://github.com/maratib?tab=repositories&q=kubernetes)
+[Flask](https://github.com/maratib?tab=repositories&q=flask)
 
-- [MongoDB](https://github.com/maratib?tab=repositories&q=mongodb)
+</td><td valign="top" style="line-height: 2.0; text-align: center;">
 
-- [MySQL](https://github.com/maratib?tab=repositories&q=mysql)
+[Git](https://github.com/maratib?tab=repositories&q=git)
 
-- [PostgreSQL](https://github.com/maratib?tab=repositories&q=postgresql)
+[AWS](https://github.com/maratib?tab=repositories&q=aws)
+
+[Docker](https://github.com/maratib?tab=repositories&q=docker)
+
+[Kubernetes](https://github.com/maratib?tab=repositories&q=kubernetes)
+
+[Redis](https://github.com/maratib?tab=repositories&q=redis)
+
+[MongoDB](https://github.com/maratib?tab=repositories&q=mongodb)
+
+[MySQL](https://github.com/maratib?tab=repositories&q=mysql)
+
+[PostgreSQL](https://github.com/maratib?tab=repositories&q=postgresql)
 
 </td></tr>
 
