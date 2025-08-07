@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Maratib Ali Khan</h1>
 <h3 align="center">A Full-Stack Developer</h3>
 
-
-
 <p align="center">
   <a href="https://github.com/maratib?tab=followers">
     <img src="https://img.shields.io/github/followers/maratib?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
@@ -16,21 +14,31 @@
 
 </p>
 
-
-
-
 ## Recent Blogs posts
-  
+
 [maratib.github.io](https://maratib.github.io)
 
 ## Technologies
- 
-- [Liferay](https://github.com/maratib?tab=repositories&q=liferay)
-  
-- [Spring Boot](https://github.com/maratib?tab=repositories&q=spring-boot)
+
+<table width="100%">
+<tr><th>Java</th><th>Flutter</th><th>React</th><th>NodeJS</th><th>Python</th><th>Others</th></tr>
+<tr><td><br>
 
 - [Java](https://github.com/maratib?tab=repositories&q=java)
 
+- [Liferay](https://github.com/maratib?tab=repositories&q=liferay)
+
+- [Spring Boot](https://github.com/maratib?tab=repositories&q=spring-boot)
+
+</td><td>-</td><td><br>
+
+- [React](https://github.com/maratib?tab=repositories&q=react)
+
+- [React-Native](https://github.com/maratib?tab=repositories&q=react-native)
+
+</td><td>NodeJS</td><td>Python</td><td>Others</td></tr>
+
+</table>
 
 ## Github Stats
 
@@ -49,7 +57,7 @@
     <a href="https://twitter.com/pbteja1998" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="pbteja1998" height="30" width="30" /></a>
     <a href="https://hashnode.com/@pbteja1998" target="blank"><img align="center" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1592752137870/scHk9tTaA.png" alt="@pbteja1998" height="30" width="30" /></a>
     <a href="https://dev.to/pbteja1998" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="pbteja1998" height="30" width="30" /></a>
-    <a href="https://medium.com/@pbteja1998" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@pbteja1998" height="30" width="30" /></a>    
+    <a href="https://medium.com/@pbteja1998" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@pbteja1998" height="30" width="30" /></a>
     <a href="https://codepen.io/pbteja1998" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="pbteja1998" height="30" width="30" /></a>
     <a href="https://codesandbox.com/pbteja1998" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="pbteja1998" height="30" width="30" /></a>
 </p> -->
