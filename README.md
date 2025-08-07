@@ -21,14 +21,14 @@
 ## Technologies
 
 <table width="100%">
-<tr><th>Java</th><th>Flutter</th><th>React</th><th>NodeJS</th><th>Python</th><th>Others</th></tr>
-<tr><td valign="top">
+<tr><th align="center">Java</th><th align="center">Flutter</th><th align="center">React</th><th align="center">NodeJS</th><th align="center">Python</th><th align="center">Others</th></tr>
+<tr><td valign="top" align="center">
 
-- [Java](https://github.com/maratib?tab=repositories&q=java)
-
-- [Liferay](https://github.com/maratib?tab=repositories&q=liferay)
-
-- [Spring Boot](https://github.com/maratib?tab=repositories&q=spring-boot)
+[Java](https://github.com/maratib?tab=repositories&q=java)
+<br>
+[Liferay](https://github.com/maratib?tab=repositories&q=liferay)
+<br>
+[Spring Boot](https://github.com/maratib?tab=repositories&q=spring-boot)
 
 </td><td valign="top">
 
