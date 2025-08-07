@@ -1,6 +1,16 @@
+ <style>
+    table {
+      width: 100%;
+    }
+</style>
+
 <h1 align="center">
 Hi 👋, I'm Maratib Ali Khan
 </h1>
+
+| Header 1 | Header 2 |
+| -------- | -------: |
+| Cell 1   |   Cell 2 |
 
 <table style="width:100%;">
   <tr>
