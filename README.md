@@ -24,10 +24,13 @@
 [maratib.github.io](https://maratib.github.io)
 
 ## Technologies
-
+ 
 - [Liferay](https://github.com/maratib?tab=repositories&q=liferay)
   
 - [Spring Boot](https://github.com/maratib?tab=repositories&q=spring-boot)
+
+- [Java](https://github.com/maratib?tab=repositories&q=java)
+
 
 ## Github Stats
 
