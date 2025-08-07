@@ -25,6 +25,8 @@
 
 ## Technologies
 
+[Liferay Development](https://github.com/maratib?tab=repositories&q=liferay)
+
 ## Github Stats
 
 <p>
