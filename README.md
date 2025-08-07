@@ -22,12 +22,12 @@
 
 <table width="100%">
 <tr><th align="center">Java</th><th align="center">Flutter</th><th align="center">React</th><th align="center">NodeJS</th><th align="center">Python</th><th align="center">Others</th></tr>
-<tr><td valign="top" align="center">
+<tr><td valign="top" align="center" style="line-height: 2.0">
 
 [Java](https://github.com/maratib?tab=repositories&q=java)
-<br>
+
 [Liferay](https://github.com/maratib?tab=repositories&q=liferay)
-<br>
+
 [Spring Boot](https://github.com/maratib?tab=repositories&q=spring-boot)
 
 </td><td valign="top">
