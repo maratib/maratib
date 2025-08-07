@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Maratib Ali Khan</h1>
-<h3 align="center">A Full-Stack Developer</h3>
+<h3 align="center">A Full-Stack Software Engineer</h3>
 
 <p align="center">
   <a href="https://github.com/maratib?tab=followers">
@@ -22,7 +22,7 @@
 
 <table width="100%">
 <tr><th>Java</th><th>Flutter</th><th>React</th><th>NodeJS</th><th>Python</th><th>Others</th></tr>
-<tr><td valign="top"><br>
+<tr><td valign="top">
 
 - [Java](https://github.com/maratib?tab=repositories&q=java)
 
@@ -30,7 +30,7 @@
 
 - [Spring Boot](https://github.com/maratib?tab=repositories&q=spring-boot)
 
-</td><td valign="top"><br>
+</td><td valign="top">
 
 - [Flutter](https://github.com/maratib?tab=repositories&q=flutter)
 
@@ -42,7 +42,7 @@
 
 - [Supabase](https://github.com/maratib?tab=repositories&q=supabase)
 
-> </td><td valign="top"><br>
+> </td><td valign="top">
 
 - [React](https://github.com/maratib?tab=repositories&q=react)
 
@@ -52,7 +52,7 @@
 
 - [TailwindCSS](https://github.com/maratib?tab=repositories&q=tailwindcss)
 
-</td><td valign="top"><br>
+</td><td valign="top">
 
 - [NodeJS](https://github.com/maratib?tab=repositories&q=nodejs)
 
@@ -60,7 +60,7 @@
 
 - [Express](https://github.com/maratib?tab=repositories&q=express)
 
-</td><td valign="top"><br>
+</td><td valign="top">
 
 - [Python](https://github.com/maratib?tab=repositories&q=python)
 
@@ -68,7 +68,7 @@
 
 - [Fast API](https://github.com/maratib?tab=repositories&q=fast-api)
 
-</td><td valign="top"><br>
+</td><td valign="top">
 
 - [Git](https://github.com/maratib?tab=repositories&q=git)
 
