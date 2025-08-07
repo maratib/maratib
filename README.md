@@ -1,27 +1,6 @@
-<html lang="en">
-<head>
-<style>
-  table {
-    width:100%;
-  }
-</style>
-</head>
-<body>
 <h1 align="center">
-Hi 👋, I'm Maratib Ali Khan 123
+Hi 👋, I'm Maratib Ali Khan
 </h1>
-
-| Header 1 | Header 2 |
-| -------- | -------: |
-| Cell 1   |   Cell 2 |
-
-<table style="width:100%;">
-  <tr>
-    <td style="width:50%;">Row 1, Column 1 Data</td>
-    <td style="width:50%; text-align: right">Row 1, Column 2 Data</td>
-  </tr>
-  
-</table>
 
 <p>
 <h3 style="margin: 0; display: inline-block">A Full-Stack Software Engineer</h3>
@@ -61,7 +40,7 @@ _(Note: For actual icons, you'd need to use a platform that supports rich text, 
 
 ## Technologies
 
-<table width="100%" style="min-width: 100%; background-color:red">
+<table width="100%" style="width: 100%;">
 <tr><th align="center">Java</th><th align="center">Flutter</th><th align="center">React</th><th align="center">NodeJS</th><th align="center">Python</th><th align="center">Others</th></tr>
 <tr><td valign="top" style="line-height: 2.0; text-align: center;">
 
@@ -150,5 +129,3 @@ _(Note: For actual icons, you'd need to use a platform that supports rich text, 
 <p>&nbsp;
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=maratib&show_icons=true" alt="maratib" />
 </p>
-
-</body></html>
