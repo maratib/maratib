@@ -2,6 +2,14 @@
 Hi 👋, I'm Maratib Ali Khan
 </h1>
 
+<table style="width:100%;">
+  <tr>
+    <td style="width:50%;">Row 1, Column 1 Data</td>
+    <td style="width:50%; text-align: right">Row 1, Column 2 Data</td>
+  </tr>
+  
+</table>
+
 <p>
 <h3 style="margin: 0; display: inline-block">A Full-Stack Software Engineer</h3>
 
