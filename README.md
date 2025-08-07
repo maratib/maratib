@@ -20,7 +20,7 @@
 
 ## Technologies
 
-<table width="100%" style="width: 100%; background-color:red">
+<table width="100%" style="min-width: 100%; background-color:red">
 <tr><th align="center">Java</th><th align="center">Flutter</th><th align="center">React</th><th align="center">NodeJS</th><th align="center">Python</th><th align="center">Others</th></tr>
 <tr><td valign="top" style="line-height: 2.0; text-align: center;">
 
