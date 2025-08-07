@@ -20,6 +20,7 @@
 
 ## Technologies
 
+<div style="width=100%;">
 <table width="100%">
 <tr><th align="center">Java</th><th align="center">Flutter</th><th align="center">React</th><th align="center">NodeJS</th><th align="center">Python</th><th align="center">Others</th></tr>
 <tr><td valign="top" style="line-height: 2.0; text-align: center;">
@@ -30,7 +31,7 @@
 
 [Spring Boot](https://github.com/maratib?tab=repositories&q=spring-boot)
 
-</td><td valign="top" style="line-height: 2.0; text-align: center;">
+</td><td valign="top" align="center" style="line-height: 2.0; text-align: center;">
 
 [Flutter](https://github.com/maratib?tab=repositories&q=flutter)
 
@@ -42,7 +43,7 @@
 
 [Supabase](https://github.com/maratib?tab=repositories&q=supabase)
 
-</td><td valign="top" style="line-height: 2.0; text-align: center;">
+</td><td valign="top" align="center" style="line-height: 2.0; text-align: center;">
 
 [React](https://github.com/maratib?tab=repositories&q=react)
 
@@ -52,7 +53,7 @@
 
 [TailwindCSS](https://github.com/maratib?tab=repositories&q=tailwindcss)
 
-</td><td valign="top" style="line-height: 2.0; text-align: center;">
+</td><td valign="top" align="center" style="line-height: 2.0; text-align: center;">
 
 [NodeJS](https://github.com/maratib?tab=repositories&q=nodejs)
 
@@ -68,7 +69,7 @@
 
 [socket.io](https://github.com/maratib?tab=repositories&q=socket.io)
 
-</td><td valign="top" style="line-height: 2.0; text-align: center;">
+</td><td valign="top" align="center" style="line-height: 2.0; text-align: center;">
 
 [Python](https://github.com/maratib?tab=repositories&q=python)
 
@@ -78,7 +79,7 @@
 
 [Flask](https://github.com/maratib?tab=repositories&q=flask)
 
-</td><td valign="top" style="line-height: 2.0; text-align: center;">
+</td><td valign="top" align="center" style="line-height: 2.0; text-align: center;">
 
 [Git](https://github.com/maratib?tab=repositories&q=git)
 
@@ -99,6 +100,7 @@
 </td></tr>
 
 </table>
+</div>
 
 ## Github Stats
 
