@@ -4,17 +4,15 @@ Hi 👋, I'm Maratib Ali Khan
 
 <p>
 <h3 style="margin: 0; display: inline-block">A Full-Stack Software Engineer</h3>
-
-<div style="display: inline-block; float: right">
-
-<img src="https://komarev.com/ghpvc/?username=maratib" alt="maratib" height="20" style="display: inline-block"/>
-<a href="https://www.linkedin.com/in/maratibali" rel="nofollow noreferrer" style="display: inline-block">
-    <img src="https://i.sstatic.net/gVE0j.png" alt="linkedin" width="20">
-  </a>
-
 <a href="https://github.com/maratib?tab=followers"  style="float: right; display: inline-block">
     <img src="https://img.shields.io/github/followers/maratib?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
   </a>
+<div>
+<a href="https://www.linkedin.com/in/maratibali" rel="nofollow noreferrer" style="display: inline-block">
+    <img src="https://i.sstatic.net/gVE0j.png" alt="linkedin" width="20">
+  </a>
+<img src="https://komarev.com/ghpvc/?username=maratib" alt="maratib" height="20" style="display: inline-block"/>
+
 </div>
 </p>
 
