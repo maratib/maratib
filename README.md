@@ -17,8 +17,6 @@ Hi 👋, I'm Maratib Ali Khan
   </a>
 </div>
 </p>
-<br>
-<br>
 
 ## 🚀 Passionate Developer & Open-Source Enthusiast
 
