@@ -1,9 +1,12 @@
+<html lang="en">
+<head>
 <style>
-    table {
-      width: 100%;
-    }
+  table {
+    width:100%;
+  }
 </style>
-
+</head>
+<body>
 <h1 align="center">
 Hi 👋, I'm Maratib Ali Khan
 </h1>
@@ -147,3 +150,5 @@ _(Note: For actual icons, you'd need to use a platform that supports rich text, 
 <p>&nbsp;
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=maratib&show_icons=true" alt="maratib" />
 </p>
+
+</body></html>
