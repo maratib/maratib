@@ -25,7 +25,7 @@ I am a **dedicated** and **innovative** developer with a deep passion for crafti
 
 Beyond coding, I thrive in **collaborative environments**, contributing to **open-source** projects and sharing knowledge through **well-documented repositories**. I believe in **transparency**, **community-driven development**, and building tools that **solve real-world problems**. Whether refining legacy systems or experimenting with **cutting-edge tech**, I approach challenges with **creativity** and **persistence**.
 
-## 🔥 Passion for Learning & Continuous Innovation
+## 🔥 Passion for Learning & Continuous Improvement
 
 I thrive on **constant learning** and **self-improvement**, always pushing my limits with **new programming paradigms**, **system design principles**, **testing strategies**, and **performance optimization techniques**. Whether it's mastering **full-stack development**, diving deep into **mobile application development**, or exploring **DevOps practices**, or refining **clean code architecture**, I treat every challenge as a chance to level up my skills. My **insatiable curiosity** drives me to experiment with **cutting-edge frameworks**, contribute to **open-source projects**, and stay ahead of **industry best practices**.
 
@@ -55,14 +55,14 @@ My work is more than just repositories—it’s a testament to my **growth minds
 
 [Hibernate](https://github.com/maratib?tab=repositories&q=hibernate)
 
-[TDD](https://github.com/maratib?tab=repositories&q=tdd), [DDD](https://github.com/maratib?tab=repositories&q=ddd)
+[TDD,](https://github.com/maratib?tab=repositories&q=tdd) [DDD](https://github.com/maratib?tab=repositories&q=ddd)
 
-[JUnit](https://github.com/maratib?tab=repositories&q=junit), [Mockito](https://github.com/maratib?tab=repositories&q=mockito)
+[JUnit,](https://github.com/maratib?tab=repositories&q=junit) [Mockito](https://github.com/maratib?tab=repositories&q=mockito)
 
 [Clean Architecture](https://github.com/maratib?tab=repositories&q=clean+architecture)
 
-[Solid Principles](https://github.com/maratib?tab=repositories&q=solid+principles),
-[ACID](https://github.com/maratib?tab=repositories&q=acid)
+[Solid,](https://github.com/maratib?tab=repositories&q=solid+principles)
+[ACID Principles](https://github.com/maratib?tab=repositories&q=acid)
 
 </td><td valign="top" align="center" style="line-height: 2.0">
 
@@ -84,29 +84,26 @@ My work is more than just repositories—it’s a testament to my **growth minds
 
 [Next.js](https://github.com/maratib?tab=repositories&q=nextjs)
 
-[TailwindCSS](https://github.com/maratib?tab=repositories&q=tailwindcss)
+[Zustand, ](https://github.com/maratib?tab=repositories&q=zustand) [Redux](https://github.com/maratib?tab=repositories&q=redux)
+
+[TailwindCSS, ](https://github.com/maratib?tab=repositories&q=tailwindcss) [ShadCN](https://github.com/maratib?tab=repositories&q=shadcn)
 
 </td><td valign="top" align="center" style="line-height: 2.0">
 
 [NodeJS](https://github.com/maratib?tab=repositories&q=nodejs)
 
-[Nest.js](https://github.com/maratib?tab=repositories&q=nestjs)
+[ES6, ](https://github.com/maratib?tab=repositories&q=es6)
+[Typescript](https://github.com/maratib?tab=repositories&q=typescript)
 
-[Express](https://github.com/maratib?tab=repositories&q=express)
-
-[Fastify](https://github.com/maratib?tab=repositories&q=fastify)
+[Nest.js, ](https://github.com/maratib?tab=repositories&q=nestjs) [Express,](https://github.com/maratib?tab=repositories&q=express) [Fastify](https://github.com/maratib?tab=repositories&q=fastify)
 
 [TypeORM](https://github.com/maratib?tab=repositories&q=typeorm)
 
 [DrizzleOrm](https://github.com/maratib?tab=repositories&q=drizzle)
 
-[Prisma](https://github.com/maratib?tab=repositories&q=Prisma)
+[Prisma, ](https://github.com/maratib?tab=repositories&q=Prisma) [Sequelize](https://github.com/maratib?tab=repositories&q=Sequelize)
 
-[Sequelize](https://github.com/maratib?tab=repositories&q=Sequelize)
-
-[GraphQL](https://github.com/maratib?tab=repositories&q=graphql)
-
-[Apollo](https://github.com/maratib?tab=repositories&q=apollo)
+[GraphQL, ](https://github.com/maratib?tab=repositories&q=graphql) [Apollo](https://github.com/maratib?tab=repositories&q=apollo)
 
 [socket.io](https://github.com/maratib?tab=repositories&q=socket.io)
 
@@ -132,13 +129,9 @@ My work is more than just repositories—it’s a testament to my **growth minds
 
 [MongoDB](https://github.com/maratib?tab=repositories&q=mongodb)
 
-[MySQL](https://github.com/maratib?tab=repositories&q=mysql)
+[MySQL, ](https://github.com/maratib?tab=repositories&q=mysql) [PostgreSQL](https://github.com/maratib?tab=repositories&q=postgresql)
 
-[PostgreSQL](https://github.com/maratib?tab=repositories&q=postgresql)
-
-[PHP](https://github.com/maratib?tab=repositories&q=php)
-
-[Wordpress](https://github.com/maratib?tab=repositories&q=wordpress)
+[PHP, ](https://github.com/maratib?tab=repositories&q=php) [Wordpress](https://github.com/maratib?tab=repositories&q=wordpress)
 
 </td></tr>
 
