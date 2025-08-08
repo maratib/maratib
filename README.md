@@ -129,7 +129,7 @@ My work is more than just repositories—it’s a testament to my **growth minds
 
 [MongoDB](https://github.com/maratib?tab=repositories&q=mongodb)
 
-[MySQL, ](https://github.com/maratib?tab=repositories&q=mysql) [PostgreSQL](https://github.com/maratib?tab=repositories&q=postgresql)
+[MySQL, ](https://github.com/maratib?tab=repositories&q=mysql) [Postgres](https://github.com/maratib?tab=repositories&q=postgresql)
 
 [PHP, ](https://github.com/maratib?tab=repositories&q=php) [Wordpress](https://github.com/maratib?tab=repositories&q=wordpress)
 
