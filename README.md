@@ -25,11 +25,13 @@ I am a **dedicated** and **innovative** developer with a deep passion for crafti
 
 Beyond coding, I thrive in **collaborative environments**, contributing to **open-source** projects and sharing knowledge through **well-documented repositories**. I believe in **transparency**, **community-driven development**, and building tools that **solve real-world problems**. Whether refining legacy systems or experimenting with **cutting-edge tech**, I approach challenges with **creativity** and **persistence**.
 
+## 🔥 Passion for Learning & Continuous Innovation
+
+I thrive on **constant learning** and **self-improvement**, always pushing my limits with **new programming paradigms**, **system design principles**, **testing strategies**, and **performance optimization techniques**. Whether it's mastering **full-stack development**, diving deep into **mobile application development**, or exploring **DevOps practices**, or refining **clean code architecture**, I treat every challenge as a chance to level up my skills. My **insatiable curiosity** drives me to experiment with **cutting-edge frameworks**, contribute to **open-source projects**, and stay ahead of **industry best practices**.
+
 ## ✨ Let’s Build the Future Together
 
 My work is more than just repositories—it’s a testament to my **growth mindset**, **technical depth**, and **passion for innovation**. I’m always eager to **connect**, **collaborate**, and **turn ideas into reality**. If you’re looking for a developer who blends **analytical thinking** with **practical execution**, let’s create something **impactful**!
-
-_(Note: For actual icons, you'd need to use a platform that supports rich text, like LinkedIn or a personal website. GitHub READMEs support basic emoji.)_
 
 ## Recent Blog posts
 
@@ -46,6 +48,8 @@ _(Note: For actual icons, you'd need to use a platform that supports rich text, 
 [Liferay](https://github.com/maratib?tab=repositories&q=liferay)
 
 [Spring Boot](https://github.com/maratib?tab=repositories&q=spring-boot)
+
+[Hibernate](https://github.com/maratib?tab=repositories&q=hibernate)
 
 </td><td valign="top" align="center" style="line-height: 2.0">
 
@@ -79,6 +83,14 @@ _(Note: For actual icons, you'd need to use a platform that supports rich text, 
 
 [Fastify](https://github.com/maratib?tab=repositories&q=fastify)
 
+[TypeORM](https://github.com/maratib?tab=repositories&q=typeorm)
+
+[DrizzleOrm](https://github.com/maratib?tab=repositories&q=drizzle)
+
+[Prisma](https://github.com/maratib?tab=repositories&q=Prisma)
+
+[Sequelize](https://github.com/maratib?tab=repositories&q=Sequelize)
+
 [GraphQL](https://github.com/maratib?tab=repositories&q=graphql)
 
 [Apollo](https://github.com/maratib?tab=repositories&q=apollo)
@@ -90,8 +102,6 @@ _(Note: For actual icons, you'd need to use a platform that supports rich text, 
 [Python](https://github.com/maratib?tab=repositories&q=python)
 
 [Django](https://github.com/maratib?tab=repositories&q=django)
-
-[Fast API](https://github.com/maratib?tab=repositories&q=fast-api)
 
 [Flask](https://github.com/maratib?tab=repositories&q=flask)
 
@@ -112,6 +122,10 @@ _(Note: For actual icons, you'd need to use a platform that supports rich text, 
 [MySQL](https://github.com/maratib?tab=repositories&q=mysql)
 
 [PostgreSQL](https://github.com/maratib?tab=repositories&q=postgresql)
+
+[PHP](https://github.com/maratib?tab=repositories&q=php)
+
+[Wordpress](https://github.com/maratib?tab=repositories&q=wordpress)
 
 </td></tr>
 
