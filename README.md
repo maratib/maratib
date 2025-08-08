@@ -41,7 +41,7 @@ My work is more than just repositories—it’s a testament to my **growth minds
 
 <table width="100%" style="width: 100%;">
 <tr><th align="center">Java</th><th align="center">Flutter</th><th align="center">React</th><th align="center">NodeJS</th><th align="center">Python</th><th align="center">Others</th></tr>
-<tr><td valign="top" style="line-height: 2.0; text-align: center;">
+<tr><td valign="top" align="center" style="line-height: 2.0">
 
 [Java](https://github.com/maratib?tab=repositories&q=java)
 
@@ -49,7 +49,20 @@ My work is more than just repositories—it’s a testament to my **growth minds
 
 [Spring Boot](https://github.com/maratib?tab=repositories&q=spring-boot)
 
+[Spring Cloud](https://github.com/maratib?tab=repositories&q=spring+cloud)
+
+[Microservices](https://github.com/maratib?tab=repositories&q=microservices)
+
 [Hibernate](https://github.com/maratib?tab=repositories&q=hibernate)
+
+[TDD](https://github.com/maratib?tab=repositories&q=tdd), [DDD](https://github.com/maratib?tab=repositories&q=ddd)
+
+[JUnit](https://github.com/maratib?tab=repositories&q=junit), [Mockito](https://github.com/maratib?tab=repositories&q=mockito)
+
+[Clean Architecture](https://github.com/maratib?tab=repositories&q=clean+architecture)
+
+[Solid Principles](https://github.com/maratib?tab=repositories&q=solid+principles),
+[ACID](https://github.com/maratib?tab=repositories&q=acid)
 
 </td><td valign="top" align="center" style="line-height: 2.0">
 
