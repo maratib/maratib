@@ -45,7 +45,7 @@ My work is more than just repositories—it’s a testament to my **growth minds
 
 [Java](https://github.com/maratib?tab=repositories&q=java)
 
-[Liferay](https://github.com/maratib?tab=repositories&q=liferay)
+[Liferay](https://github.com/liferay-studio?tab=repositories)
 
 [Spring Boot](https://github.com/maratib?tab=repositories&q=spring-boot)
 
