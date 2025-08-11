@@ -37,6 +37,19 @@ My work is more than just repositories—it’s a testament to my **growth minds
 
 [maratib.github.io](https://maratib.github.io)
 
+## My Open source/Community projects
+
+<table width="100%" style="width: 100%; padding: 20px">
+<tr>
+<td><a href="https://liferay-studio.github.io" target="_blank">Liferay Studio</a></td>
+<td>Liferay Studio VS Code Extension and developer learning resource</td>
+</tr>
+<tr>
+<td><a href="https://webpup.github.io" target="_blank">Webpup</a></td>
+<td>PHP/Wordpress Blade Theme Development Frameworks and developer learning resource</td>
+</tr>
+</table>
+
 ## Technologies
 
 <table width="100%" style="width: 100%;">
@@ -132,6 +145,10 @@ My work is more than just repositories—it’s a testament to my **growth minds
 [MySQL, ](https://github.com/maratib?tab=repositories&q=mysql) [Postgres](https://github.com/maratib?tab=repositories&q=postgresql)
 
 [PHP, ](https://github.com/maratib?tab=repositories&q=php) [Wordpress](https://github.com/maratib?tab=repositories&q=wordpress)
+
+[UML, ](https://github.com/maratib?tab=repositories&q=uml) [Mermaid](https://github.com/maratib?tab=repositories&q=mermaid)
+
+[draw.io, ](https://github.com/maratib?tab=repositories&q=draw) [Figma](https://github.com/maratib?tab=repositories&q=figma)
 
 </td></tr>
 
