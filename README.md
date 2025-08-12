@@ -33,6 +33,12 @@ I thrive on **constant learning** and **self-improvement**, always pushing my li
 
 My work is more than just repositories—it’s a testament to my **growth mindset**, **technical depth**, and **passion for innovation**. I’m always eager to **connect**, **collaborate**, and **turn ideas into reality**. If you’re looking for a developer who blends **analytical thinking** with **practical execution**, let’s create something **impactful**!
 
+## ✉️ Let's Connect
+
+[![LinkedIn](https://github.com/liferay-studio/liferay-studio.github.io/raw/main/public/linkedin-48.png "LinkedIn")](https://www.linkedin.com/in/maratibali)
+
+---
+
 ## Recent Blog posts
 
 [maratib.github.io](https://maratib.github.io)
