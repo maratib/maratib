@@ -59,7 +59,7 @@ My work is more than just repositories—it’s a testament to my **growth minds
 ## Technologies
 
 <table width="100%" style="width: 100%;">
-<tr><th align="center">Java</th><th align="center">Flutter</th><th align="center">React</th><th align="center">NodeJS</th><th align="center">Python</th><th align="center">Others</th></tr>
+<tr><th align="center">Java</th><th align="center">Mobile APPs</th><th align="center">Frontend</th><th align="center">NodeJS</th><th align="center">Python</th><th align="center">Others</th></tr>
 <tr><td valign="top" align="center" style="line-height: 2.0">
 
 [Java](https://github.com/maratib?tab=repositories&q=java)
@@ -87,11 +87,11 @@ My work is more than just repositories—it’s a testament to my **growth minds
 
 [Flutter](https://github.com/maratib?tab=repositories&q=flutter)
 
-[Dart](https://github.com/maratib?tab=repositories&q=dart)
+[FlutterFire](https://github.com/maratib?tab=repositories&q=flutterfire)
 
 [Firebase](https://github.com/maratib?tab=repositories&q=firebase)
 
-[FlutterFire](https://github.com/maratib?tab=repositories&q=flutterfire)
+[React-Native](https://github.com/maratib?tab=repositories&q=react-native)
 
 [Supabase](https://github.com/maratib?tab=repositories&q=supabase)
 
@@ -102,6 +102,8 @@ My work is more than just repositories—it’s a testament to my **growth minds
 [React-Native](https://github.com/maratib?tab=repositories&q=react-native)
 
 [Next.js](https://github.com/maratib?tab=repositories&q=nextjs)
+
+[Angular 2](https://github.com/maratib?tab=repositories&q=angular)
 
 [Zustand, ](https://github.com/maratib?tab=repositories&q=zustand) [Redux](https://github.com/maratib?tab=repositories&q=redux)
 
