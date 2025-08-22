@@ -48,11 +48,11 @@ My work is more than just repositories—it’s a testament to my **growth minds
 <table width="100%" style="width: 100%; padding: 20px">
 <tr>
 <td><a href="https://liferay-studio.github.io" target="_blank">Liferay Studio</a></td>
-<td>Liferay Studio VS Code Extension and developer learning resource</td>
+<td>Liferay Studio VS Code Extension and developer learning resources</td>
 </tr>
 <tr>
-<td><a href="https://webpup.github.io" target="_blank">Webpup</a></td>
-<td>PHP/Wordpress Blade Theme Development Frameworks and developer learning resource</td>
+<td><a href="https://wp-theme.github.io" target="_blank">WP-Theme</a></td>
+<td>PHP/Wordpress themes development frameworks, libraries, utilities, tools and learning resources</td>
 </tr>
 </table>
 
