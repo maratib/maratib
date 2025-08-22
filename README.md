@@ -50,7 +50,7 @@ My work is more than just repositories—it’s a testament to my **growth minds
 </tr>
 <tr>
 <td><a href="https://maratib.github.io" target="_blank">maratib</a></td>
-<td>My Recent Blog posts</td>
+<td>My Recent Blog Posts</td>
 </tr>
 </table>
 
