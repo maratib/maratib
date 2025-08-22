@@ -37,12 +37,6 @@ My work is more than just repositories—it’s a testament to my **growth minds
 
 [![LinkedIn](https://github.com/liferay-studio/liferay-studio.github.io/raw/main/public/linkedin-48.png "LinkedIn")](https://www.linkedin.com/in/maratibali)
 
----
-
-## Recent Blog posts
-
-[maratib.github.io](https://maratib.github.io)
-
 ## My Open source/Community projects
 
 <table width="100%" style="width: 100%; padding: 20px">
@@ -53,6 +47,10 @@ My work is more than just repositories—it’s a testament to my **growth minds
 <tr>
 <td><a href="https://wp-theme.github.io" target="_blank">WP-Theme</a></td>
 <td>PHP/Wordpress themes development frameworks, libraries, utilities, tools and learning resources</td>
+</tr>
+<tr>
+<td><a href="https://maratib.github.io" target="_blank">maratib</a></td>
+<td>My Recent Blog posts</td>
 </tr>
 </table>
 
